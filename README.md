@@ -1,13 +1,14 @@
 # test dotnet in vscode
 
-## 下载vscode
+## 相关网址
 
 > [vscode下载地址](https://code.visualstudio.com/download)
-
-***
-## 安装 .net core sdk
-
-> [下载地址](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install)
+> 
+> [sdk下载地址](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install)
+> 
+> [dotnet文档地址](https://docs.microsoft.com/zh-cn/dotnet/fundamentals/)
+> 
+> [nuget文档地址](https://docs.microsoft.com/zh-cn/nuget/what-is-nuget)
 
 ***
 ## PowerShell中运行命令
