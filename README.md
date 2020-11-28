@@ -17,5 +17,5 @@
 |dotnet new console -n myPro.App|新建控制台项目|
 |dotnet new classlib -n myPro.Core|新建类库项目|
 |dotnet sln add myPro.App|向解决方案增加项目|
-|dotnet add myPro.App reference myPro.Core|
+|dotnet add myPro.App reference myPro.Core|增加项目引用|
 |dotnet run -p myPro.App|运行指定项目|
